@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="not_show">Don\'t show interstitial, but show ListView</string>
+    <string name="counter_tv">Ad appears through 30</string>
+</resources>
